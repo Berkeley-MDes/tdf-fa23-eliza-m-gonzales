@@ -1,4 +1,4 @@
-#Report 1 - Week of 08/28/2023
+# Report 1 - Week of 08/28/2023
 Eliza Gonzles, Tech Des Found
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
