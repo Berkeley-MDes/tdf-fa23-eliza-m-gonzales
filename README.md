@@ -1,38 +1,33 @@
 # Report 1 - Week of 08/28/2023
 **Eliza Gonzles, Tech Des Found**
 
+## 🪑 Monday 8/28 Recap
+
 It has been a long long week! But, I have made some really awesome progress and am ready to share what I've managed to complete thus far.
 
 Earlier this week on Monday, I attempted to laser cut the basic model of the phone stand with no modifications with a fellow classmate, Abigail! It was a bit of a learning curve, but nonetheless we were able to figure it out. Most of it was just remembering how to work on Adobe Illustrator, and printing it to the laser cutter. 
 
 Here are some of the awesome results we got!
 
-wiki/3.0-Weekly-Submissions). They might look something like this: ###
----
-# Example Report 1 - Week of 08/21/2023 #
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+<img width="634" alt="Screenshot 2023-08-30 at 8 08 30 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/68164ee7-c347-4d99-b8d4-d7551b7ed300">
+<img width="660" alt="Screenshot 2023-08-30 at 8 08 22 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/94511544-9f09-45c8-8917-104b37731d90">
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+## ✏️ Wednesday 8/30 Recap
 
----
+After class on Monday, I wanted to try and explore Rhino and Grasshopper to make modifications to the file. Boy was that rough! I spent quite a few hours working on it and just trying to understand how it worked. 
 
-or, if you prefer, you can create separate files and link to them here, like so:
+My phone measurements for safe keeping 👩🏽‍💻
 
----
-[Example Report 1](weekly-reports/example-report-1.md)
----
+🔸 **Width:** 81.75mm 
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
+🔸 **Length:** 165mm
 
-sparkles,
+🔸 **Depth:** 13mm
 
-your TDF TA, shm :sparkles:
 
-PS: let me know if you have any questions!!
+Here are some issues I ran in to:
+1. Attempted to make the stand vertical. I struggled with this for a while because what I initially did was reverse the input, so I put length into width and vice versa. Because of this, it was incredibly difficult to adjust the height of the stand itself. I tinkered with this for a LONG time.
 
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
