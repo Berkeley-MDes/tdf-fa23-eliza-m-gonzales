@@ -25,11 +25,39 @@ My phone measurements for safe keeping 👩🏽‍💻
 🔸 **Depth:** 13mm
 
 
-Here are some issues I ran in to:
-1. Attempted to make the stand vertical. I struggled with this for a while because what I initially did was reverse the input, so I put length into width and vice versa. Because of this, it was incredibly difficult to adjust the height of the stand itself. I tinkered with this for a LONG time.
+Here are some annoying b I ran in to:
+1. **Vertical vs. Horizontal**
 
+Attempted to make the stand vertical. I struggled with this for a while because what I initially did was reverse the input, so I put length into width and vice versa. Because of this, it was incredibly difficult to adjust the height of the stand itself. I tinkered with this for a LONG time. Finally saw there was an option for Portrait vs Landscape in GS, so started over
+
+2. **Perspective??**
+
+First of all, there are so many views, why?? Second of all, I learned NOT to drag one view into full screen, and to simply double tap the view I want in 4View. Cody was a miracle worker here, because I was deepyly confused.
+
+3. **Plane**
+
+Cody also helped me to set up a plane so I wouldn't lose the object so easy. It basically required typing in plane, placing it on the object, and making sure it's correctly dragged to the object. Great learning yay!
+
+4. **Shake n' Bake n'**
+
+Baking was easy! Learned that this should not be done in perspective view otherwise it was actually bake in perspective. There is a little vroom vroom car that shows it from the top view that was great. Baking was easy, but I just ran into a few issues with exporting this into Illustrator.
+
+I also learned about the Move command and moving the baked portion to 0, because it was floating off into space and not showing up in Illustator. 
+
+## Photo time!
+<img width="603" alt="Screenshot 2023-08-31 at 9 55 57 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/43857ec4-d970-40f4-ab02-8e1f8e253faa">
+
+<img width="617" alt="Screenshot 2023-08-31 at 9 56 42 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/b55cfe17-719e-45f9-b409-1bcc0cc61779">
+
+## Outcomes
+The final one wasn't put together very well, I believe it was to do with the sizing of the acrylic OR I need to adjust the holes they go in to. TBD!
+
+Learning do be fun sometimes!
+
+--------
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
+
 - [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
