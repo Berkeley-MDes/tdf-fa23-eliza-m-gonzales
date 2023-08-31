@@ -1,15 +1,13 @@
 # Report 1 - Week of 08/28/2023
 **Eliza Gonzles, Tech Des Found**
 
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
+It has been a long long week! But, I have made some really awesome progress and am ready to share what I've managed to complete thus far.
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link! 
+Earlier this week on Monday, I attempted to laser cut the basic model of the phone stand with no modifications with a fellow classmate, Abigail! It was a bit of a learning curve, but nonetheless we were able to figure it out. Most of it was just remembering how to work on Adobe Illustrator, and printing it to the laser cutter. 
 
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+Here are some of the awesome results we got!
 
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
+wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
 # Example Report 1 - Week of 08/21/2023 #
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
