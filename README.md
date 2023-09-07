@@ -17,6 +17,10 @@ Originally Cody in the makerspace explained to me hoe planes work, and helped me
 
 When I created my phone stand last week, baking was realtively easy, but I did run into some problems and learned what not to do. The entire process seemed relatively self explanatory, but alas- it was **_not_**. When it came to exporting, I didn't realize you could bake it several times, so in illustrator I literally had 6 layers to sort through.
 
+<img width="1878" alt="Screenshot 2023-09-07 at 7 49 45 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/02ebe2a4-3ba8-4260-a280-9f4ce937e3cd">
+
+<img width="946" alt="Screenshot 2023-09-07 at 7 52 16 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/6b1d96f5-eddf-46e6-af80-02e6321846c7">
+
 3. Stabiltiy ⎍
 
 I  didn't even know that we could analyze our model within Grasshopper, so to find out we could find the stability of an object was pretty cool. If I'm correct, last week when I was adjusting the original file, I noticed that when I was trying to change my phone stand from horizontal to vertical, it turned red unless I manipulated some of the values. I probably worked through this for about 2 hours which was very very annoying. I assumed that it was red and not blue because something was wrong, but I now know more specifically that this was because it was not stable. Makes a lot of sense.
@@ -25,7 +29,8 @@ I  didn't even know that we could analyze our model within Grasshopper, so to fi
 
 I didn't know this existed, so seeing the file outside of Grasshopper was interesting. I  really llike this because you can play with the adjustments without worrying about ruining the actual file. Something I know I'm always scared of.
 
-
+## Overall
+I'm feeling more confident in using Grasshopper after watching some Youtube videos and watching TJ's tutorial. Next I want to try and create something super simple from scratch, just to make sure I'm grasping all of the content correctly!
 
 # Report 1 - Week of 08/28/2023
 **Eliza Gonzles, Tech Des Found**
