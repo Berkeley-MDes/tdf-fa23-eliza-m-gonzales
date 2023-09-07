@@ -1,3 +1,11 @@
+# Report 2 - Week of 09/04/2023
+
+Rhino and Grasshopper has been a really frustrating learning curve for me. Initially with the first file, I was distraught (to be dramatic) when I first saw the original phone model. Lowky- felt like crying.
+
+HOWEVER- things have become better. Last week was a bit better in terms of learning how to use these platforms. I think my main issue was not understanding the fundamentals of the different tools and the actions they do. I took it upon myself to watch some Youtube videos just to get a basic foundation for how to use them, because I felt if I didn't then I wouldn't truly understand it.
+
+
+
 # Report 1 - Week of 08/28/2023
 **Eliza Gonzles, Tech Des Found**
 
