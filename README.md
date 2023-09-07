@@ -1,8 +1,29 @@
 # Report 2 - Week of 09/04/2023
+**Overcoming Rhino**
+
+## 🚖 Wednesday 9/6 Recap
 
 Rhino and Grasshopper has been a really frustrating learning curve for me. Initially with the first file, I was distraught (to be dramatic) when I first saw the original phone model. Lowky- felt like crying.
 
 HOWEVER- things have become better. Last week was a bit better in terms of learning how to use these platforms. I think my main issue was not understanding the fundamentals of the different tools and the actions they do. I took it upon myself to watch some Youtube videos just to get a basic foundation for how to use them, because I felt if I didn't then I wouldn't truly understand it.
+
+THANKFULLY, TJ uploaded the wonderful video explanation that helped break down the cell phone stand project. Honestly I probably would not have had the understanding I now have without it. Thank you TJ 🫡 Here are a few things that I now understand.
+
+1. Setting a plane ✈️
+
+Originally Cody in the makerspace explained to me hoe planes work, and helped me set this in the original cell phone stand file. While it was really helpful, I didn't fully understand it in terms of the overall contribution to the project. We used it so I would not lose the phone stand and could type 'ZS' to find it. The walkthrough of seeing the plane in within the box and spheres helped to solidify where the phone lies within this realm.
+
+2. Baking 🧁
+
+When I created my phone stand last week, baking was realtively easy, but I did run into some problems and learned what not to do. The entire process seemed relatively self explanatory, but alas- it was **_not_**. When it came to exporting, I didn't realize you could bake it several times, so in illustrator I literally had 6 layers to sort through.
+
+3. Stabiltiy ⎍
+
+I  didn't even know that we could analyze our model within Grasshopper, so to find out we could find the stability of an object was pretty cool. If I'm correct, last week when I was adjusting the original file, I noticed that when I was trying to change my phone stand from horizontal to vertical, it turned red unless I manipulated some of the values. I probably worked through this for about 2 hours which was very very annoying. I assumed that it was red and not blue because something was wrong, but I now know more specifically that this was because it was not stable. Makes a lot of sense.
+
+4. Shapediver
+
+I didn't know this existed, so seeing the file outside of Grasshopper was interesting. I  really llike this because you can play with the adjustments without worrying about ruining the actual file. Something I know I'm always scared of.
 
 
 
