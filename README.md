@@ -1,5 +1,5 @@
 # Report 3 - Week of 09/11/2023
-**Rushing towards the finish line**
+**🏃‍♀️ Rushing towards the finish line**
 
 Last week I was able to come up with a great example for a phone stand in Rhino. Only thing was, I didn't find much interested in creating a phone stand. I have a lot of different tripods and stands for my phone already, and didn't want to waste product for something I might not use very often.
 
@@ -16,6 +16,7 @@ I wanted something that had curves and wasn't fully straight, so I really liked 
 Something felt off with these thought, I realized that I actually wanted to try something a bit different. I wanted some texture and geometry so I could make it a little more diffitult (AKA Platypus level). So I drew out something that was a big more low poly and geometric. 
 
 **Here are some images of my inspiration.**
+
 ![IMG_1601](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/10ee1d69-6bc7-485f-ae89-6fe98c521e40)
 ![IMG_1600](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/a332ab10-e7dc-4e64-a9ac-16c3b86d1dfb)
 
@@ -23,6 +24,12 @@ And this is what I tried sketching to start working in Rhino!
 
 <img width="376" alt="Screenshot 2023-09-14 at 1 49 44 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/7111f2aa-74cf-427e-a76e-1088448fb713">
 
+
+**Images of my creation in Rhino and Grasshopper.**
+![71636397974__06FA34D0-3093-4A06-A87C-71303C881E5F](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/ea913fc9-1ed8-4dd3-ae6f-b6696ef63654)
+![71636366890__EE49C23A-4409-4105-A674-312E2E198602](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/07623704-b7d3-41b5-95ab-dd1a6e272c7c)
+
+[You can watch my journey more in depth here!](https://youtu.be/YEtRWLvp9wQ)
 
 # Report 2 - Week of 09/04/2023
 **Overcoming Rhino**
