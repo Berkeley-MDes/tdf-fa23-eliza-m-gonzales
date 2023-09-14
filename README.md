@@ -13,6 +13,9 @@ I wanted something that had curves and wasn't fully straight, so I really liked 
 ![IMG_255E3014F477-1](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/c71f55e3-98a9-4fa5-bc54-f993e288cf3d)
 ![IMG_7138001BA0AE-1](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/4fabb3c4-7c1a-476c-aa53-2964051019ab)
 
+Something felt off with these thought, I realized that I actually wanted to try something a bit different. I wanted some texture and geometry so I could make it a little more diffitult (AKA Platypus level). So I drew out something that was a big more low poly and geometric. 
+
+**Here are some images of my inspiration.**
 
 # Report 2 - Week of 09/04/2023
 **Overcoming Rhino**
