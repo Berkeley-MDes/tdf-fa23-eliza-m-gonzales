@@ -1,9 +1,25 @@
+# Report 3 - Week of 09/11/2023
+**Rushing towards the finish line**
+
+Last week I was able to come up with a great example for a phone stand in Rhino. Only thing was, I didn't find much interested in creating a phone stand. I have a lot of different tripods and stands for my phone already, and didn't want to waste product for something I might not use very often.
+
+I started to think more about what I wanted to do, and what would be realistic to use on a regular basis. As I started thinking more about it, I really wanted to try and make a vase. I wanted one, and so I thought this would be a really cool idea.
+
+<img width="161" alt="Screenshot 2023-09-14 at 10 41 12 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/4754823f-ba2e-4ddd-8675-a1de89596387">
+<img width="372" alt="Screenshot 2023-09-14 at 10 41 36 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/3cd7f3f7-9521-49c0-b11a-5f99f24554ac">
+
+I wanted something that had curves and wasn't fully straight, so I really liked the ones I found above. After than, I tried drawing out some sketches that don't really match, but still wanted to try and draw them gain that skill.
+
+![IMG_255E3014F477-1](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/c71f55e3-98a9-4fa5-bc54-f993e288cf3d)
+![IMG_7138001BA0AE-1](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/4fabb3c4-7c1a-476c-aa53-2964051019ab)
+
+
 # Report 2 - Week of 09/04/2023
 **Overcoming Rhino**
 
 ## 🚖 Wednesday 9/6 Recap
 
-Rhino and Grasshopper has been a really frustrating learning curve for me. Initially with the first file, I was distraught (to be dramatic) when I first saw the original phone model. Lowky- felt like crying.
+Rhino and Grasshopper has been a really frustrating learning curve for me. Initially with the first file, I was distraught (to be dramatic) when I first saw the original phone model. Lowkey- felt like crying.
 
 HOWEVER- things have become better. Last week was a bit better in terms of learning how to use these platforms. I think my main issue was not understanding the fundamentals of the different tools and the actions they do. I took it upon myself to watch some Youtube videos just to get a basic foundation for how to use them, because I felt if I didn't then I wouldn't truly understand it.
 
