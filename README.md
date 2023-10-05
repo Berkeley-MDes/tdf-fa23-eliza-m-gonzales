@@ -1,3 +1,7 @@
+#  Week of 09/28/2023
+**Not much to report**
+Got hit by a motorcycle this week. Not very fun.
+
 # Report 3 - Week of 09/11/2023
 **🏃‍♀️ Rushing towards the finish line**
 
