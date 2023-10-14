@@ -1,3 +1,15 @@
+#  Week of 10/12/2023
+**Communication & Particle Configuration**
+We've spent a lot of time trying to make the particle board work. I managed to get some portion of it working, but still trying to figure out the vibration portion of our board.
+![IMG_2113](https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/162c4a1d-ad31-43e9-baf4-d6226380df07)
+
+#  Week of 10/5/2023
+**Brainstorming for the Particle Projects**
+My group and I were trying to figure out what we wanted to do for our project. We had initially thought of overcoming language barriers by creating sunglasses that would translate real time conversations, but quickly realized that that would be really difficult to do.
+
+We then decided to pivot! We're still staying along the lines of communication, but maybe considering between two people trying to discretely communicate.
+<img width="944" alt="Screenshot 2023-10-14 at 11 19 46 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/956e554e-d164-45fe-af53-8016f4b02475">
+
 #  Week of 09/28/2023
 **Not much to report**
 Got hit by a motorcycle this week. Not very fun.
