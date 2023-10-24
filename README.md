@@ -8,6 +8,7 @@ Our concept for Rescue Ring was to create a product that would allow friends at 
 
 **Level Selection**
 For this project, I wanted to work at an Axolotl level because I’ve never worked with photons before this program, and really wanted to learn more about this skill and explore what could be done. I figured if I worked at this level, then it would force me into learning more about photons and trying to make things work.
+
 <img width="497" alt="Screenshot 2023-10-23 at 5 21 24 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/23200244-131f-4870-a2ce-4229a59a4195">
 
 **Changes**
