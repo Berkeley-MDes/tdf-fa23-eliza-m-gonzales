@@ -4,6 +4,7 @@
 
 Our concept for Rescue Ring was to create a product that would allow friends at a party to communicate with each other in a discrete fashion in case they’re experiencing anxiety, panic attacks, or just not having a good time. The idea here is that both friends would be wearing a ring with a Force Sensitive Resistor and Haptic Feedback buzzer. If one of the friends want to notify the other friend that they need them, then they would simply tap the ring and it would send a buzz to the other person.
 
+
 <img width="588" alt="Screenshot 2023-10-23 at 5 20 18 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/79a653ff-e3b6-433a-be71-8d99f8a5c035">
 
 
@@ -11,15 +12,18 @@ Our concept for Rescue Ring was to create a product that would allow friends at 
 
 For this project, I wanted to work at an Axolotl level because I’ve never worked with photons before this program, and really wanted to learn more about this skill and explore what could be done. I figured if I worked at this level, then it would force me into learning more about photons and trying to make things work.
 
+
 <img width="497" alt="Screenshot 2023-10-23 at 5 21 24 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/23200244-131f-4870-a2ce-4229a59a4195">
 
 **Changes**
 
 Originally we were thinking of doing something like a clip on that could be attached to your shirt, and this way you could tap it and/or feel it buzz. However, I noted that this may not be as discrete as we would want it to be. It might be a bit obvious on your clothing, and obvious when you're tapping it. Additionally, if you're wearing loose clothing, then you might not feel it buzz all togther!
 
+
 <img width="1007" alt="Screenshot 2023-10-23 at 5 23 53 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/b4be9ac8-02cd-4e62-8dbf-2815aa6d90e2">
 
 As a result, I came up with the idea of "Resuce Ring", and more discrete and functional wearable.
+
 
 **Contributions**
 
