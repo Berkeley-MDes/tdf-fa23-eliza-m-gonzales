@@ -7,11 +7,14 @@ As for TDF, it was a fairly slow. The conversation with the ZeroWidth founder wa
 
 
 <img width="1038" alt="Screenshot 2023-10-28 at 4 18 03 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/941f8c39-8b4d-4afc-9c66-cc44c9db78b3">
+
 She's.. excited?
 
 
 <img width="602" alt="Screenshot 2023-10-28 at 4 18 57 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/82c9c66c-f6e9-4806-a8bf-b2e1dd6ae6e9">
+
 I don't think she understands how to use emojis.
+
 
 Work in progress!
 
