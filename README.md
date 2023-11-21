@@ -1,3 +1,55 @@
+# Week of 11/09/2023
+**Social Media Agent Support**
+
+**Introduction**
+My project was to create a social media assistant that knew my style, energy, and content creation type to efficiently provide ideas for my video content. The idea was this would be a mini version of my persona on social media. She would know what I like, how I film, and be able to provide ideas and a shot list for a video. Ultimately, it worked out really well and was able to provide accurate ideas for videos that align with my branding.
+
+**Level Selection**
+I chose to work at the Platypus level because the project seemed like an interesting challenge, and I was eager to learn how to use LLM and understand how they work. 
+
+**Experiments**
+To start, I fed my AI a bunch of information about myself. In the initial ideas, I told it that it was a social media assistant, and gave it rules about myself, who was their target audience. Inside that same instruction, I gave it information about their job and what they needed to do as my mini me. Embedded inside this informational context was a knowledge base, and the knowledge base has additional information about myself and who I am.
+
+<img width="651" alt="Screenshot 2023-11-20 at 6 13 21 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/89df45a9-8f93-40e5-bcba-78d24c3c86ea">
+
+Now inside of the knowledge base, I had a lot more information that was much longer than what I provided in the informational portion. I included things about myself that came from my LinkedIn, statements I’ve written, along with other information I’ve written down previously. However, I analyzed my videos that I’ve created previously, and wrote down a bunch of information about these videos. Because it’s primary goal was to provide me ideas for videos, I fed it quite a few examples of videos I’ve done, shot lists, and ideas that I would like so it had an idea of what I might like to do in a video.
+
+<img width="633" alt="Screenshot 2023-11-20 at 6 13 50 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/6b076757-51e9-4ef5-b0b1-7afc5d7d5387">
+
+First, I wanted to play with the temperature and see how this mechanism worked. I set the temperature to two, and it was way too much because my responses wouldn't load. I waited about 5 minutes and nothing happened. After this, I lowered it to 1.5, but I still had no luck. It wasn't until I brought it down to 1 that things started to work. However, I eventually found that setting it to 0.7 was the sweet spot, which is pretty close to what was suggested for getting more creative responses.
+
+<img width="584" alt="Screenshot 2023-11-20 at 6 14 19 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/916502f8-f283-475a-afb2-3108ade60cd4">
+
+When it came to tokens, I decided to go all in and turned it up to the highest setting just to see what would happen, but my mini me crashed. After that, I tried setting it to around 6000 tokens, but I ran into the same problem. Ultimately, I've settled on using about 2000 tokens, and it's working smoothly without any issues.
+
+<img width="607" alt="Screenshot 2023-11-20 at 6 14 45 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/c41215d8-f03a-4674-b194-ed4b564c565f">
+
+**Demonstration**
+View the demonstration here!
+
+**Reflections**
+It was a really interesting project to take part in, as I haven’t personally built an LLM before. I’ve ‘trained’ AI’s previously by using the same one over and over, but this experience was completely different. I thoroughly enjoyed being able to actually customize my mini and direct it to be what I imagined.
+I think in the future, I would like to see more customization features with these kinds of algorithms. We’ve already seen this at with ChatGPT allowing certain instructions to be added, but would be so awesome to see this is a greater scheme.
+
+**Speculations**
+**How will this technology impact the design of human experiences?**
+We have already seen massive waves with what artificial intelligence can do, such as provide academic support, build companies, expose information, simplify text, etc. It has already impacted the experience of humans all around the world, and will continue to do so no doubt. 
+I imagine that moving forward, it will ease the lives of many human beings. Ideally at a large scale, but of course this is more than likely going to positively influence the middle and higher classes. It may also, as some speculate, reduce the amount of simple jobs that exist. I’m not entirely sure if this will happen, but the floodgates have been opened, and I believe that either way this may lead to more jobs being created. Who knows!
+
+**How will this technology impact engineering and how we build?**
+Again, we’ve already seen this positive influence. Many engineers are using AI to streamline their own practices, and be even better developers. It’s only going to continue to increase the support these engineers have, as I know many of the people on my team have already used the support of AI. I think for how we build, it may overall make these processes more efficient and faster.
+
+**Next Steps**
+The feedback I received from my peers was great overall. Compartmentalizing the feedback, people seemed to enjoy the concept that I created for the project, as well as liked the video style of the presentation. Moving forward, I’ll be sure to include a full screen recording of the demonstration as opposed to just snippets and screenshots, since that’s what some wanted to see.
+
+**Conclusion**
+As scary as AI may seem, I think as long as humanity abides by a singular code of ethics, we should ideally be okay. Obviously, that is much easier said than done, but the same can be said with so many other kinds of technology. The boom of the internet was intense, but eventually we developed laws and policies around what can and cannot be done legally. I imagine the same being done now with this new tool, hopefully sooner rather than later.
+
+
+# Week of 11/02/2023
+**Work in Progress**
+I have several projects that I'm working on from different classes, so it's been a bit chaotic. For this class specifically I started working on the LLM project, and exploring different features of ZeroWsith. I find the project to be fairly interesting, and think I may try to create a malious AI bot that spews nothing but misinformation. To be continued..
+
 # Week of 10/26/2023
 **Introduction**
 Our concept for Rescue Ring was to create a product that would allow friends at a party to communicate with each other in a discrete fashion in case they’re experiencing anxiety, panic attacks, or just not having a good time. The idea here is that both friends would be wearing a ring with a Force Sensitive Resistor and Haptic Feedback buzzer. If one of the friends want to notify the other friend that they need them, then they would simply tap the ring and it would send a buzz to the other person.
