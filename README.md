@@ -2,12 +2,15 @@
 **Final Project Proposal**
 
 **SUMMARY**
+
 My idea for my final project is to create an interactive environment to creatively express emotion. I would like to create a projection that maps the users body and allows them to move and create physical reflections of their emotional state. The technologies I would use might include an Xbox Kinect for body mapping and touch designer for creating the projection reflections.
 
 **RESEARCH PLAN**
+
 My research plan involves getting an Xbox Kinect, which is priced at about $10, to understand how it maps human bodies. Since this is a new thing for me, I've been watching several videos to understand its workings and potential applications. I am particularly interested in exploring how I might use the Kinect in conjunction with TouchDesigner to create interactive visual gestures.
 
 <img width="617" alt="Screenshot 2023-11-20 at 6 18 06 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/396ea65d-b5b0-485b-88c2-3f4c2a32a9df">
+
 
 I plan to start with studying the Kinect's technology. I want to learn about its depth sensor, RGB camera, and understand how these components work together to track motion and gestures.  Once I have the Kinect, I want to create some experiments to test its capabilities. 
 
@@ -16,15 +19,19 @@ Integrating Kinect with TouchDesigner will be an important part of my project. I
 <img width="622" alt="Screenshot 2023-11-20 at 6 18 43 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/35ef9faf-29ee-4d3c-9170-652913a4731f">
 
 **CURRENT WORK**
+
 I don’t have current work that I’ve done myself, but have watched several videos.
 
 **MOTIVATION** 
+
 I hope to learn more about body mapping and using touch designers.
 
 **CHALLENGE LEVEL** 
+
 Triceratops
 
 **TIMELINE** 
+
 Thursday, Nov 16 - Try and get the Kinect
 Thursday, Nov 23 - Have an understanding of how these functions work together
 Thursday, Nov 30 - Work with Kinect and Touchdesigner to have some sort of interaction together
@@ -34,23 +41,29 @@ Thursday, Dec 4 - Be done! Hopefully!
 **Social Media Agent Support**
 
 **Introduction**
+
 My project was to create a social media assistant that knew my style, energy, and content creation type to efficiently provide ideas for my video content. The idea was this would be a mini version of my persona on social media. She would know what I like, how I film, and be able to provide ideas and a shot list for a video. Ultimately, it worked out really well and was able to provide accurate ideas for videos that align with my branding.
 
 **Level Selection**
+
 I chose to work at the Platypus level because the project seemed like an interesting challenge, and I was eager to learn how to use LLM and understand how they work. 
 
 **Experiments**
+
 To start, I fed my AI a bunch of information about myself. In the initial ideas, I told it that it was a social media assistant, and gave it rules about myself, who was their target audience. Inside that same instruction, I gave it information about their job and what they needed to do as my mini me. Embedded inside this informational context was a knowledge base, and the knowledge base has additional information about myself and who I am.
 
 <img width="651" alt="Screenshot 2023-11-20 at 6 13 21 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/89df45a9-8f93-40e5-bcba-78d24c3c86ea">
+
 
 Now inside of the knowledge base, I had a lot more information that was much longer than what I provided in the informational portion. I included things about myself that came from my LinkedIn, statements I’ve written, along with other information I’ve written down previously. However, I analyzed my videos that I’ve created previously, and wrote down a bunch of information about these videos. Because it’s primary goal was to provide me ideas for videos, I fed it quite a few examples of videos I’ve done, shot lists, and ideas that I would like so it had an idea of what I might like to do in a video.
 
 <img width="633" alt="Screenshot 2023-11-20 at 6 13 50 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/6b076757-51e9-4ef5-b0b1-7afc5d7d5387">
 
+
 First, I wanted to play with the temperature and see how this mechanism worked. I set the temperature to two, and it was way too much because my responses wouldn't load. I waited about 5 minutes and nothing happened. After this, I lowered it to 1.5, but I still had no luck. It wasn't until I brought it down to 1 that things started to work. However, I eventually found that setting it to 0.7 was the sweet spot, which is pretty close to what was suggested for getting more creative responses.
 
 <img width="584" alt="Screenshot 2023-11-20 at 6 14 19 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/916502f8-f283-475a-afb2-3108ade60cd4">
+
 
 When it came to tokens, I decided to go all in and turned it up to the highest setting just to see what would happen, but my mini me crashed. After that, I tried setting it to around 6000 tokens, but I ran into the same problem. Ultimately, I've settled on using about 2000 tokens, and it's working smoothly without any issues.
 
