@@ -57,24 +57,31 @@ When it came to tokens, I decided to go all in and turned it up to the highest s
 <img width="607" alt="Screenshot 2023-11-20 at 6 14 45 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/c41215d8-f03a-4674-b194-ed4b564c565f">
 
 **Demonstration**
+
 View the demonstration here!
 
 **Reflections**
+
 It was a really interesting project to take part in, as I haven’t personally built an LLM before. I’ve ‘trained’ AI’s previously by using the same one over and over, but this experience was completely different. I thoroughly enjoyed being able to actually customize my mini and direct it to be what I imagined.
 I think in the future, I would like to see more customization features with these kinds of algorithms. We’ve already seen this at with ChatGPT allowing certain instructions to be added, but would be so awesome to see this is a greater scheme.
 
 **Speculations**
+
 **How will this technology impact the design of human experiences?**
+
 We have already seen massive waves with what artificial intelligence can do, such as provide academic support, build companies, expose information, simplify text, etc. It has already impacted the experience of humans all around the world, and will continue to do so no doubt. 
 I imagine that moving forward, it will ease the lives of many human beings. Ideally at a large scale, but of course this is more than likely going to positively influence the middle and higher classes. It may also, as some speculate, reduce the amount of simple jobs that exist. I’m not entirely sure if this will happen, but the floodgates have been opened, and I believe that either way this may lead to more jobs being created. Who knows!
 
 **How will this technology impact engineering and how we build?**
+
 Again, we’ve already seen this positive influence. Many engineers are using AI to streamline their own practices, and be even better developers. It’s only going to continue to increase the support these engineers have, as I know many of the people on my team have already used the support of AI. I think for how we build, it may overall make these processes more efficient and faster.
 
 **Next Steps**
+
 The feedback I received from my peers was great overall. Compartmentalizing the feedback, people seemed to enjoy the concept that I created for the project, as well as liked the video style of the presentation. Moving forward, I’ll be sure to include a full screen recording of the demonstration as opposed to just snippets and screenshots, since that’s what some wanted to see.
 
 **Conclusion**
+
 As scary as AI may seem, I think as long as humanity abides by a singular code of ethics, we should ideally be okay. Obviously, that is much easier said than done, but the same can be said with so many other kinds of technology. The boom of the internet was intense, but eventually we developed laws and policies around what can and cannot be done legally. I imagine the same being done now with this new tool, hopefully sooner rather than later.
 
 
