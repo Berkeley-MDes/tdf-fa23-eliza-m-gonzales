@@ -1,3 +1,32 @@
+# Week of 10/26/2023
+**Introduction**
+Our concept for Rescue Ring was to create a product that would allow friends at a party to communicate with each other in a discrete fashion in case they’re experiencing anxiety, panic attacks, or just not having a good time. The idea here is that both friends would be wearing a ring with a Force Sensitive Resistor and Haptic Feedback buzzer. If one of the friends want to notify the other friend that they need them, then they would simply tap the ring and it would send a buzz to the other person.
+<img width="623" alt="Screenshot 2023-11-20 at 6 06 38 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/f1165134-04ea-4220-a340-df0bf0f5e8b9">
+
+**Level Selection**
+For this project, I wanted to work at an Axolotl level because I’ve never worked with photons before this program, and really wanted to learn more about this skill and explore what could be done. I figured if I worked at this level, then it would force me into learning more about photons and trying to make things work.
+
+**Contributions**
+For Rescue Ring I took on several roles, particularly in areas where I had a strong skill set. One area that I was confident in was soldering. It came to our attention that no one in the group had substantial experience with this technique. Recognizing the opportunity, I not only executed the soldering tasks but also took it upon myself to guide my teammates through the process. This hands-on experience greatly enhanced my proficiency, and it was rewarding to witness the collective progress of the group. As we worked together, it was clear that my contribution was important in ensuring the successful functionality of our product, without taking much time away from other people to teach students to solder. Not only did this experience bolster my soldering skills, but it also gave me a chance to mentor and share knowledge with my peers. 
+In addition to this, I helped with setting up the circuit and auditing the code to find any issues that may have arisen. For example, when we were trying to get the photons to communicate, we ran into an issue. One of them would cause the other photon sensor to buzz, but it would not work vice versa. I looked at the code that Vidit has created, and changed aspects of it to try and mediate this situation. Even though we couldn’t get it before class on Thursday, it was still a great opportunity to test my circuit and programming knowledge
+<img width="620" alt="Screenshot 2023-11-20 at 6 06 59 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/59f11dae-4322-4368-b27a-f3f23a9d8565">
+<img width="625" alt="Screenshot 2023-11-20 at 6 07 21 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/e41840d4-2fa3-48ea-af29-832d968f37eb">
+
+
+**Reflections**
+Our project aims to transform the way people perceive safety at large events. The significance of personal safety in crowded spaces cannot be understated, and our observations have highlighted a consistent need in this domain. Our initial thoughts were related to a pair of friends being separated at a party, and notifying each other of their need for the other.
+Large events, whether they are music festivals, parties, or conventions, bring together vast numbers of people in confined spaces. During events like these, concerns about safety can overshadow the actual experience. Our goal for the Rescue Ring began from this very observation. Our goal is to provide a solution that not only addresses safety concerns, but also reinforces a sense of empowerment among attendees. The intention is to ensure that everyone can enjoy these events to the fullest, with an assured sense of security, and a way to connect back with their friend without the need for a phone.
+With our project, we are offering more than just a temporary fix. We are laying down the foundation for a sustainable change in the way safety is perceived and experienced at large gatherings. By centering our approach on genuine empowerment, we aim to make people confident about their well-being at any event, allowing them to focus on the experience itself. We are hopeful that our efforts will redefine the standard for safety in crowded settings.
+<img width="520" alt="Screenshot 2023-11-20 at 6 07 35 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/202ece77-700f-4ff8-960b-5d2c27cb3c7f">
+<img width="340" alt="Screenshot 2023-11-20 at 6 07 51 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/b15c9f1e-1154-4374-8caf-974b39f5eb34">
+
+
+**Speculations**
+I speculate that with this device, a lot of people will be more comfortable going out to large functions with friends. It is a very simple device that empowers people to go out and not be afraid of what may happen if they can’t get in contact with their friend. Safety unfortunately is such a huge market, as we've seen with cup covers blowing up and being passed out at parties to make sure someone isn’t drugged. I believe this device would be at the forefront of partying and enjoying large functions safely.
+
+<img width="610" alt="Screenshot 2023-11-20 at 6 08 03 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-eliza-m-gonzales/assets/143106992/bf6893b7-0a0b-423c-8635-7088f880c91c">
+
+
 # Week of 10/19/2023
 **Chaos Arises**
 
